@@ -1,0 +1,5 @@
+package br.edu.fatecpg.lista.model;
+
+public class Aluno {
+
+}

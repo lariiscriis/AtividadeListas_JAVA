@@ -1,0 +1,13 @@
+package br.edu.fatecpg.lista.view;
+
+import br.edu.fatecpg.lista.model.Aluno;
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Teste");
+		Aluno aluno = new Aluno("Ale","123");
+		System.out.println(aluno);
+	}
+
+}
